@@ -26,5 +26,19 @@ body { margin: 0; padding: 0; }
     });
 </script>
 
+<<script type="text/javascript">
+  d3.csv("df_37.csv", function(data) {
+      for (var i = 0; i < data.length; i++) {
+        console.log(data[i].Company);
+        console.log(data[i].Address);
+        console.log(data[i].City);
+        console.log(data[i].State);
+        console.log(data[i].Zip);
+        console.log(data[i].Nearest_Kroger);
+      }
+  });
+
+</script>
+
 </body>
 </html>
