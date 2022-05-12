@@ -36,6 +36,7 @@ body { margin: 0; padding: 0; }
         console.log(data[i].State);
         console.log(data[i].Zip);
         console.log(data[i].Nearest_Kroger);
+        L.marker([data[i].Lat, data[i].Long]).addTo(map);
       }
   };
 
