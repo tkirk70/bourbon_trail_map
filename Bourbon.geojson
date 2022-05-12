@@ -4,7 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 0,
         "Company": "4ROSES - Four Roses Gift Shop",
         "Address": "1224 Bonds Mill Rd",
         "City": "Lawrenceburg",
@@ -23,7 +22,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 4,
         "Company": "BARHSE - Barrel House Distilling Co.",
         "Address": "1200 Manchester Street",
         "City": "Lexington",
@@ -42,7 +40,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 9,
         "Company": "DUELGR - Dueling Grounds Distillery",
         "Address": "545 George Taylor Rd.",
         "City": "Franklin",
@@ -61,7 +58,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 12,
         "Company": "HEAVEN - Heaven Hill",
         "Address": "1064 Loretto Rd.",
         "City": "Bardstown",
@@ -80,7 +76,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 22,
         "Company": "MBROLL - MB Roland Distillery",
         "Address": "137 Barkers Mill Rd",
         "City": "Pembroke",
@@ -99,7 +94,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 23,
         "Company": "MICHTE - Michter's Distillery",
         "Address": "2351 New Millennium Drive",
         "City": "Louisville",
@@ -118,7 +112,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 24,
         "Company": "MMGIFT - Maker's Mark Distillery-Gift Shop",
         "Address": "3350 Burks Spring Road",
         "City": "Loretto",
@@ -137,7 +130,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 26,
         "Company": "OLDPOG - Old Pogue",
         "Address": "716 West Second Street",
         "City": "Maysville",
@@ -156,7 +148,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 34,
         "Company": "WILDTK - Wild Turkey Distillery Gift St",
         "Address": "1417 Versailles Road",
         "City": "Lawrenceburg",
@@ -175,7 +166,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 35,
         "Company": "WILLET - Willett Distillery",
         "Address": "1869 Loretto Road",
         "City": "Bardstown",
@@ -194,7 +184,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 36,
         "Company": "WOODFD - Woodford Reserve Distillery",
         "Address": "7855 Mccracken Pike",
         "City": "Versailles",
@@ -213,7 +202,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 40,
         "Company": "ANGELS - Angel's Envy Distillery",
         "Address": "500 East Main Street",
         "City": "Louisville",
@@ -232,7 +220,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 43,
         "Company": "BARDBN - Bardstown Bourbon Company",
         "Address": "1500 Parkway Drive",
         "City": "Bardstown",
@@ -251,7 +238,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 48,
         "Company": "BOONE  - Boone County Distilling Company",
         "Address": "6895 Burlington Pike",
         "City": "Florence",
@@ -270,7 +256,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 49,
         "Company": "BOUNDA - Boundary Oak Distillery",
         "Address": "2000 Boundary Oak Drive",
         "City": "Radcliff",
@@ -289,7 +274,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 55,
         "Company": "CJONES - Casey Jones Distillery",
         "Address": "2815 Witty Lane",
         "City": "Hopkinsville",
@@ -308,7 +292,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 70,
         "Company": "JPEPPR - James E. Pepper Distillery",
         "Address": "1228 Manchester St. #100",
         "City": "Lexington",
@@ -327,7 +310,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 72,
         "Company": "LUXROW - Lux Row Distillers",
         "Address": "3050 E. John Rowan Blvd.",
         "City": "Bardstown",
@@ -346,7 +328,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 73,
         "Company": "NEWRIF - New Riff Distilling LLC",
         "Address": "24 Distillery Way",
         "City": "Newport",
@@ -365,7 +346,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 74,
         "Company": "OLDFOR - Old Forester",
         "Address": "119 West Main Street",
         "City": "Louisville",
@@ -384,7 +364,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 75,
         "Company": "OZTYLR - Green River Distilling",
         "Address": "10 Distillery Rd.",
         "City": "Owensboro",
@@ -403,7 +382,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 76,
         "Company": "PEERLE - Kentucky Peerless Distilling Company",
         "Address": "120 N. Tenth Street",
         "City": "Louisville",
@@ -422,7 +400,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 80,
         "Company": "PRESDI - Preservation Distillery",
         "Address": "426 Sutherland Rd",
         "City": "Bardstown",
@@ -441,7 +418,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 82,
         "Company": "STITZW - Stitzel-Weller Distillery",
         "Address": "323 Queensway Drive",
         "City": "Lexington",
@@ -460,7 +436,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 88,
         "Company": "WTRL   - Wilderness Trail Distillery",
         "Address": "4095 Lebanon Road",
         "City": "Danville",
@@ -479,7 +454,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 90,
         "Company": "BLUE G - Bluegrass Distillers",
         "Address": "501 W 6th St STE #165",
         "City": "Lexington",
@@ -498,7 +472,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 92,
         "Company": "HART   - Hartfield & Co",
         "Address": "108 East 4th Street",
         "City": "Paris",
@@ -517,7 +490,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 93,
         "Company": "KYADIS - Kentucky Artisan Distillery Copperhead Distillery Company",
         "Address": "6230 Old Lagrange Rd.",
         "City": "Crestwood",
@@ -536,7 +508,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 104,
         "Company": "RABBIT - Rabbit Hole Spirits LLC",
         "Address": "711 East Jefferson Street",
         "City": "Louisville",
@@ -555,7 +526,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 106,
         "Company": "SSSPRI - Second Sight Spirits LLC",
         "Address": "301 Elm Street",
         "City": "Ludlow",
@@ -574,7 +544,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 113,
         "Company": "Bulleit",
         "Address": "3900 Benson Pike",
         "City": "Shelbyville",
@@ -593,7 +562,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 114,
         "Company": "Evan Williams",
         "Address": "528 W Main St",
         "City": "Louisville",
@@ -612,7 +580,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 115,
         "Company": "Jim Beam",
         "Address": "568 Happy Hollow Rd",
         "City": "Clermont",
@@ -631,7 +598,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 116,
         "Company": "Town Branch",
         "Address": "401 Cross St",
         "City": "Lexington ",
@@ -650,7 +616,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 117,
         "Company": "Neely Family",
         "Address": "4360 Hwy 1130",
         "City": "Sparta",
@@ -669,7 +634,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 118,
         "Company": "Jephta Creed",
         "Address": "500 Gordon Ln",
         "City": "Shelbyville",
@@ -688,7 +652,6 @@
     {
       "type": "Feature",
       "properties": {
-        "": 119,
         "Company": "Limestone Ranch",
         "Address": "1280 Veterans Memorial Hwy",
         "City": "Lebanon",
