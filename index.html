@@ -43,6 +43,9 @@ body { margin: 0; padding: 0; }
     'circle-stroke-color': 'white'
     }
     });
+		onEachFeature: function (feature, layer) {
+      layer.bindPopup("Campany: " + feature.properties.Company + "<br>Location: " + feature.properties.Address + "<br>Nearest Kroger: " + feature.properties.Nearest_Kroger);
+    }
   });
 </script>
 
