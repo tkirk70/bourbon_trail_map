@@ -1,0 +1,708 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "": 0,
+        "Company": "4ROSES - Four Roses Gift Shop",
+        "Address": "1224 Bonds Mill Rd",
+        "City": "Lawrenceburg",
+        "State": "KY",
+        "Zip": 40342,
+        "Nearest_Kroger": "1300 Anderson Crossing Dr, Lawrenceburg, KY 40342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.89755057,
+          37.97357306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 4,
+        "Company": "BARHSE - Barrel House Distilling Co.",
+        "Address": "1200 Manchester Street",
+        "City": "Lexington",
+        "State": "KY",
+        "Zip": 40504,
+        "Nearest_Kroger": "704 Euclid Ave, Lexington, KY 40502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51903423,
+          38.05643411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 9,
+        "Company": "DUELGR - Dueling Grounds Distillery",
+        "Address": "545 George Taylor Rd.",
+        "City": "Franklin",
+        "State": "KY",
+        "Zip": 42134,
+        "Nearest_Kroger": "2945 Scottsville Rd, Bowling Green, KY 42104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.59439694,
+          37.17169401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 12,
+        "Company": "HEAVEN - Heaven Hill",
+        "Address": "1064 Loretto Rd.",
+        "City": "Bardstown",
+        "State": "KY",
+        "Zip": 40004,
+        "Nearest_Kroger": "102 W John Rowan Blvd, Bardstown, KY 40004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.47078878,
+          38.01401721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 22,
+        "Company": "MBROLL - MB Roland Distillery",
+        "Address": "137 Barkers Mill Rd",
+        "City": "Pembroke",
+        "State": "KY",
+        "Zip": 42266,
+        "Nearest_Kroger": "1213 Skyline Dr, Hopkinsville, KY 42240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3916614,
+          36.69842954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 23,
+        "Company": "MICHTE - Michter's Distillery",
+        "Address": "2351 New Millennium Drive",
+        "City": "Louisville",
+        "State": "KY",
+        "Zip": 40216,
+        "Nearest_Kroger": "1265 Goss Ave, Louisville, KY 40217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.76329932,
+          38.25793242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 24,
+        "Company": "MMGIFT - Maker's Mark Distillery-Gift Shop",
+        "Address": "3350 Burks Spring Road",
+        "City": "Loretto",
+        "State": "KY",
+        "Zip": 40037,
+        "Nearest_Kroger": "705 E Main St, Lebanon, KY 40033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.34886131,
+          37.64713072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 26,
+        "Company": "OLDPOG - Old Pogue",
+        "Address": "716 West Second Street",
+        "City": "Maysville",
+        "State": "KY",
+        "Zip": 41056,
+        "Nearest_Kroger": "381 Market Square Dr, Maysville, KY 41056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.77934783,
+          38.66120359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 34,
+        "Company": "WILDTK - Wild Turkey Distillery Gift St",
+        "Address": "1417 Versailles Road",
+        "City": "Lawrenceburg",
+        "State": "KY",
+        "Zip": 40342,
+        "Nearest_Kroger": "1300 Anderson Crossing Dr, Lawrenceburg, KY 40342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85184104,
+          38.04064408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 35,
+        "Company": "WILLET - Willett Distillery",
+        "Address": "1869 Loretto Road",
+        "City": "Bardstown",
+        "State": "KY",
+        "Zip": 40004,
+        "Nearest_Kroger": "234 Eastbrooke Pkwy, Mt Washington, KY 40047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48325915,
+          38.00583112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 36,
+        "Company": "WOODFD - Woodford Reserve Distillery",
+        "Address": "7855 Mccracken Pike",
+        "City": "Versailles",
+        "State": "KY",
+        "Zip": 40383,
+        "Nearest_Kroger": "212 Kroger Way, Versailles, KY 40383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.81090328,
+          38.11353054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 40,
+        "Company": "ANGELS - Angel's Envy Distillery",
+        "Address": "500 East Main Street",
+        "City": "Louisville",
+        "State": "KY",
+        "Zip": 40202,
+        "Nearest_Kroger": "2200 Brownsboro Rd, Louisville, KY 40206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.74322589,
+          38.25625039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 43,
+        "Company": "BARDBN - Bardstown Bourbon Company",
+        "Address": "1500 Parkway Drive",
+        "City": "Bardstown",
+        "State": "KY",
+        "Zip": 40004,
+        "Nearest_Kroger": "102 W John Rowan Blvd, Bardstown, KY 40004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.40978191,
+          37.81170391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 48,
+        "Company": "BOONE  - Boone County Distilling Company",
+        "Address": "6895 Burlington Pike",
+        "City": "Florence",
+        "State": "KY",
+        "Zip": 41042,
+        "Nearest_Kroger": "1700 Declaration Dr, Independence, KY 41051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.61376329,
+          38.9470603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 49,
+        "Company": "BOUNDA - Boundary Oak Distillery",
+        "Address": "2000 Boundary Oak Drive",
+        "City": "Radcliff",
+        "State": "KY",
+        "Zip": 40160,
+        "Nearest_Kroger": "111 Towne Dr, Elizabethtown, KY 42701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91396082,
+          37.81142454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 55,
+        "Company": "CJONES - Casey Jones Distillery",
+        "Address": "2815 Witty Lane",
+        "City": "Hopkinsville",
+        "State": "KY",
+        "Zip": 42240,
+        "Nearest_Kroger": "545 Island Ford Rd, Madisonville, KY 42431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55506164,
+          37.1673104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 70,
+        "Company": "JPEPPR - James E. Pepper Distillery",
+        "Address": "1228 Manchester St. #100",
+        "City": "Lexington",
+        "State": "KY",
+        "Zip": 40504,
+        "Nearest_Kroger": "1600 Leestown Rd, Lexington, KY 40511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.519719,
+          38.05675303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 72,
+        "Company": "LUXROW - Lux Row Distillers",
+        "Address": "3050 E. John Rowan Blvd.",
+        "City": "Bardstown",
+        "State": "KY",
+        "Zip": 40004,
+        "Nearest_Kroger": "102 W John Rowan Blvd, Bardstown, KY 40004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.42444095,
+          37.80820949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 73,
+        "Company": "NEWRIF - New Riff Distilling LLC",
+        "Address": "24 Distillery Way",
+        "City": "Newport",
+        "State": "KY",
+        "Zip": 41073,
+        "Nearest_Kroger": "53 Donnermeyer Dr, Bellevue, KY 41073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48891533,
+          39.1008597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 74,
+        "Company": "OLDFOR - Old Forester",
+        "Address": "119 West Main Street",
+        "City": "Louisville",
+        "State": "KY",
+        "Zip": 40202,
+        "Nearest_Kroger": "1265 Goss Ave, Louisville, KY 40217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75242593,
+          38.2565113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 75,
+        "Company": "OZTYLR - Green River Distilling",
+        "Address": "10 Distillery Rd.",
+        "City": "Owensboro",
+        "State": "KY",
+        "Zip": 42301,
+        "Nearest_Kroger": "2630 Frederica St, Owensboro, KY 42301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13806946,
+          37.77830466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 76,
+        "Company": "PEERLE - Kentucky Peerless Distilling Company",
+        "Address": "120 N. Tenth Street",
+        "City": "Louisville",
+        "State": "KY",
+        "Zip": 40202,
+        "Nearest_Kroger": "2710 W Broadway, Louisville, KY 40211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.76632649,
+          38.25878652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 80,
+        "Company": "PRESDI - Preservation Distillery",
+        "Address": "426 Sutherland Rd",
+        "City": "Bardstown",
+        "State": "KY",
+        "Zip": 40004,
+        "Nearest_Kroger": "102 W John Rowan Blvd, Bardstown, KY 40004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4924798,
+          37.7871979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 82,
+        "Company": "STITZW - Stitzel-Weller Distillery",
+        "Address": "323 Queensway Drive",
+        "City": "Lexington",
+        "State": "KY",
+        "Zip": 40502,
+        "Nearest_Kroger": "704 Euclid Ave, Lexington, KY 40502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47143043,
+          38.0299467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 88,
+        "Company": "WTRL   - Wilderness Trail Distillery",
+        "Address": "4095 Lebanon Road",
+        "City": "Danville",
+        "State": "KY",
+        "Zip": 40422,
+        "Nearest_Kroger": "200 Skywatch Dr, Danville, KY 40422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8261795,
+          37.62108832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 90,
+        "Company": "BLUE G - Bluegrass Distillers",
+        "Address": "501 W 6th St STE #165",
+        "City": "Lexington",
+        "State": "KY",
+        "Zip": 40508,
+        "Nearest_Kroger": "1600 Leestown Rd, Lexington, KY 40511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49192709,
+          38.06037337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 92,
+        "Company": "HART   - Hartfield & Co",
+        "Address": "108 East 4th Street",
+        "City": "Paris",
+        "State": "KY",
+        "Zip": 40361,
+        "Nearest_Kroger": "1650 Bryan Station Rd, Lexington, KY 40505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24891483,
+          38.21214135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 93,
+        "Company": "KYADIS - Kentucky Artisan Distillery Copperhead Distillery Company",
+        "Address": "6230 Old Lagrange Rd.",
+        "City": "Crestwood",
+        "State": "KY",
+        "Zip": 40014,
+        "Nearest_Kroger": "12450 La Grange Rd, Louisville, KY 40245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46310132,
+          38.33635904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 104,
+        "Company": "RABBIT - Rabbit Hole Spirits LLC",
+        "Address": "711 East Jefferson Street",
+        "City": "Louisville",
+        "State": "KY",
+        "Zip": 40202,
+        "Nearest_Kroger": "2200 Brownsboro Rd, Louisville, KY 40206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.73947019,
+          38.25252619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 106,
+        "Company": "SSSPRI - Second Sight Spirits LLC",
+        "Address": "301 Elm Street",
+        "City": "Ludlow",
+        "State": "KY",
+        "Zip": 41016,
+        "Nearest_Kroger": "1525 Madison Ave, Covington, KY 41011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54954704,
+          39.09637795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 113,
+        "Company": "Bulleit",
+        "Address": "3900 Benson Pike",
+        "City": "Shelbyville",
+        "State": "KY",
+        "Zip": 40065,
+        "Nearest_Kroger": "311 Boone Station Rd, Shelbyville, KY 40065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13712782,
+          38.22304307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 114,
+        "Company": "Evan Williams",
+        "Address": "528 W Main St",
+        "City": "Louisville",
+        "State": "KY",
+        "Zip": 40202,
+        "Nearest_Kroger": "2710 W Broadway, Louisville, KY 40211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75943524,
+          38.25703442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 115,
+        "Company": "Jim Beam",
+        "Address": "568 Happy Hollow Rd",
+        "City": "Clermont",
+        "State": "KY",
+        "Zip": 40110,
+        "Nearest_Kroger": "185 Adam Shepherd Pkwy, Shepherdsville, KY 40165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65245619,
+          37.93132269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 116,
+        "Company": "Town Branch",
+        "Address": "401 Cross St",
+        "City": "Lexington ",
+        "State": "KY",
+        "Zip": 40508,
+        "Nearest_Kroger": "704 Euclid Ave, Lexington, KY 40502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50945454,
+          38.05001111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 117,
+        "Company": "Neely Family",
+        "Address": "4360 Hwy 1130",
+        "City": "Sparta",
+        "State": "KY",
+        "Zip": 41086,
+        "Nearest_Kroger": "2549 KY-227, Carrollton, KY 41008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9456456,
+          38.70682898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 118,
+        "Company": "Jephta Creed",
+        "Address": "500 Gordon Ln",
+        "City": "Shelbyville",
+        "State": "KY",
+        "Zip": 40065,
+        "Nearest_Kroger": "311 Boone Station Rd, Shelbyville, KY 40065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.264744,
+          38.18974479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "": 119,
+        "Company": "Limestone Ranch",
+        "Address": "1280 Veterans Memorial Hwy",
+        "City": "Lebanon",
+        "State": "KY",
+        "Zip": 40033,
+        "Nearest_Kroger": "705 E Main St, Lebanon, KY 40033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.27200779,
+          37.58200104
+        ]
+      }
+    }
+  ]
+}
