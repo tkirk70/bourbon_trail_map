@@ -25,6 +25,25 @@ body { margin: 0; padding: 0; }
         center: [-84.5, 38], // starting position [lng, lat]
         zoom: 7 // starting zoom
     });
+    map.on('load', () => {
+    map.addSource('Bourbon', {
+    type: 'geojson',
+    // Use a URL for the value for the `data` property.
+    data: 'https://raw.githubusercontent.com/tkirk70/bourbon_trail_map/main/Bourbon.geojson'
+    });
+
+    map.addLayer({
+    'id': 'distillery-layer',
+    'type': 'circle',
+    'source': 'Bourbon',
+    'paint': {
+    'circle-radius': 8,
+    'circle-stroke-width': 2,
+    'circle-color': 'red',
+    'circle-stroke-color': 'white'
+    }
+    });
+  });
 </script>
 
 <!-- <script type="text/javascript">
