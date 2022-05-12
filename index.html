@@ -28,7 +28,7 @@ body { margin: 0; padding: 0; }
 </script>
 
 <<script type="text/javascript">
-  d3.csv("https://raw.githubusercontent.com/tkirk70/bourbon_trail_map/main/df_37.csv", function(data) {
+  d3.csv("https://raw.githubusercontent.com/tkirk70/bourbon_trail_map/main/df_37.csv"), function(data) {
       for (var i = 0; i < data.length; i++) {
         console.log(data[i].Company);
         console.log(data[i].Address);
