@@ -1,0 +1,355 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":0,
+    "Nearest_Kroger":"1300 Anderson Crossing Dr",
+    "City":" Lawrenceburg",
+    "State":"KY",
+    "Zip":40342
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.49298648499436,38.0309358 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "Nearest_Kroger":"704 Euclid Ave",
+    "City":" Lexington",
+    "State":"KY",
+    "Zip":40502
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.42540710587755,36.9432139 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "Nearest_Kroger":"2945 Scottsville Rd",
+    "City":" Bowling Green",
+    "State":"KY",
+    "Zip":42104
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.46435232542736,37.82640342204635 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "Nearest_Kroger":"102 W John Rowan Blvd",
+    "City":" Bardstown",
+    "State":"KY",
+    "Zip":40004
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.47785368137082,36.84145037830672 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "Nearest_Kroger":"1213 Skyline Dr",
+    "City":" Hopkinsville",
+    "State":"KY",
+    "Zip":42240
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7299911,38.2259752 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "Nearest_Kroger":"1265 Goss Ave",
+    "City":" Louisville",
+    "State":"KY",
+    "Zip":40217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.23398155242928,37.575652689952136 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "Nearest_Kroger":"705 E Main St",
+    "City":" Lebanon",
+    "State":"KY",
+    "Zip":40033
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7911139,38.6255768 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "Nearest_Kroger":"381 Market Square Dr",
+    "City":" Maysville",
+    "State":"KY",
+    "Zip":41056
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "FIELD1":9,
+    "Nearest_Kroger":"234 Eastbrooke Pkwy",
+    "City":" Mt Washington",
+    "State":"KY",
+    "Zip":40047
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7114242111636,38.0528652 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "Nearest_Kroger":"212 Kroger Way",
+    "City":" Versailles",
+    "State":"KY",
+    "Zip":40383
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.70429094188005,38.2579292 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "Nearest_Kroger":"2200 Brownsboro Rd",
+    "City":" Louisville",
+    "State":"KY",
+    "Zip":40206
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.546192,38.9308866 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "Nearest_Kroger":"1700 Declaration Dr",
+    "City":" Independence",
+    "State":"KY",
+    "Zip":41051
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.88757888665704,37.733687843672904 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "Nearest_Kroger":"111 Towne Dr",
+    "City":" Elizabethtown",
+    "State":"KY",
+    "Zip":42701
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.4908065370475,37.35140468071176 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "Nearest_Kroger":"545 Island Ford Rd",
+    "City":" Madisonville",
+    "State":"KY",
+    "Zip":42431
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.526936,38.067898 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "Nearest_Kroger":"1600 Leestown Rd",
+    "City":" Lexington",
+    "State":"KY",
+    "Zip":40511
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.48177327746853,39.09930115 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "Nearest_Kroger":"53 Donnermeyer Dr",
+    "City":" Bellevue",
+    "State":"KY",
+    "Zip":41073
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.11605540475436,37.74999845 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "Nearest_Kroger":"2630 Frederica St",
+    "City":" Owensboro",
+    "State":"KY",
+    "Zip":42301
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.79686536848594,38.24842115 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "Nearest_Kroger":"2710 W Broadway",
+    "City":" Louisville",
+    "State":"KY",
+    "Zip":40211
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7846124,37.6170492 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "Nearest_Kroger":"200 Skywatch Dr",
+    "City":" Danville",
+    "State":"KY",
+    "Zip":40422
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.46328360696081,38.06049365869011 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "Nearest_Kroger":"1650 Bryan Station Rd",
+    "City":" Lexington",
+    "State":"KY",
+    "Zip":40505
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.5088591,38.2905719 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "Nearest_Kroger":"12450 La Grange Rd",
+    "City":" Louisville",
+    "State":"KY",
+    "Zip":40245
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.50847571084209,39.07287525 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "Nearest_Kroger":"1525 Madison Ave",
+    "City":" Covington",
+    "State":"KY",
+    "Zip":41011
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.20365,38.218012 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "Nearest_Kroger":"311 Boone Station Rd",
+    "City":" Shelbyville",
+    "State":"KY",
+    "Zip":40065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7106952,37.9917293 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "Nearest_Kroger":"185 Adam Shepherd Pkwy",
+    "City":" Shepherdsville",
+    "State":"KY",
+    "Zip":40165
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1353579,38.6563429 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "Nearest_Kroger":"2549 KY-227",
+    "City":" Carrollton",
+    "State":"KY",
+    "Zip":41008
+    }
+  }
+]
+}
