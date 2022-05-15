@@ -100,7 +100,7 @@ d3.json("https://raw.githubusercontent.com/tkirk70/bourbon_trail_map/main/kroger
       // We create a popup for each circleMarker to display the magnitude and location of the earthquake
       //  after the marker has been created and styled.
     onEachFeature: function (feature, layer) {
-      layer.bindPopup("Nearest Kroger: " + feature.properties.Nearest_Kroger);
+      layer.bindPopup("Kroger: " + "<br>Address:" + feature.properties.Nearest_Kroger + "<br>City: " + feature.properties.City + "<br>Zip: " + feature.properties.Zip);
     }
   }).addTo(krogers);
 
