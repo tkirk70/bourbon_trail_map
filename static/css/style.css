@@ -22,3 +22,7 @@ body,
   margin-right: 8px;
   opacity: 0.7;
 }
+
+.tileLayer: {
+  tileSize: 512
+}
