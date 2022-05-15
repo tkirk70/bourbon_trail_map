@@ -26,3 +26,7 @@ body,
 .tileLayer: {
   tileSize: 512
 }
+
+.leaflet-container {
+  font: 17px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
