@@ -1,86 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-<meta charset="utf-8">
-<title>Bourbon Trail Distilleries</title>
-<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
-<link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet">
-<script src="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js"></script>
-<script src="https://d3js.org/d3.v5.min.js"></script>
-<style>
-body { margin: 0; padding: 0; }
-#map { position: absolute; top: 0; bottom: 0; width: 100%; }
-</style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bourbon Trail Krogers</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin="" />
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
 </head>
+
 <body>
-<div id="map"></div>
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    <!-- The div that holds our map -->
+    <div id="mapid"></div>
+
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
         integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
         crossorigin=""></script>
-<script>
-	// TO MAKE THE MAP APPEAR YOU MUST
-	// ADD YOUR ACCESS TOKEN FROM
-	// https://account.mapbox.com
-	mapboxgl.accessToken = 'pk.eyJ1IjoidGtpcms3MCIsImEiOiJja3pteTB4NnM1Z2h0Mm5wNDBreHphaHVuIn0.5U1qpjlLyZxnKF85X-_dJg';
-    const map = new mapboxgl.Map({
-        container: 'map', // container ID
-        style: 'mapbox://styles/mapbox/streets-v11', // style URL
-        center: [-84.5, 38], // starting position [lng, lat]
-        zoom: 7 // starting zoom
-    });
-    map.on('load', () => {
-    map.addSource('Bourbon', {
-    type: 'geojson',
-    // Use a URL for the value for the `data` property.
-    data: 'https://raw.githubusercontent.com/tkirk70/bourbon_trail_map/main/Bourbon.geojson'
-    });
+    <!-- API key -->
+    <script type="text/javascript" src="static/js/config.js"></script>
 
-    map.addLayer({
-    'id': 'distillery-layer',
-    'type': 'circle',
-    'source': 'Bourbon',
-    'paint': {
-    'circle-radius': 8,
-    'circle-stroke-width': 2,
-    'circle-color': 'red',
-    'circle-stroke-color': 'white'
-    }
-    });
-		L.geoJson(data, {
-			style: function (feature) {
-				return {color: feature.properties.color};
-			},
-			onEachFeature: function (feature, layer) {
-				layer.bindPopup(feature.properties.Company);
-	}
-	}).addTo(map);
-		// onEachFeature: function (feature, layer) {
-    //   layer.bindPopup("Campany: " + feature.properties.Company + "<br>Location: " + feature.properties.Address + "<br>Nearest Kroger: " + feature.properties.Nearest_Kroger);
-    // }
-  });
-</script>
-
-<!-- <script type="text/javascript">
-  d3.csv("df_37.csv")
-    .row(function(d) { return {key: d.key, value: +d.value}; })
-    .get(function(error, rows) { console.log(rows); });
-
-</script> -->
-
-<script type="text/javascript">
-  d3.csv("https://raw.githubusercontent.com/tkirk70/bourbon_trail_map/main/df_37.csv"), function(data) {
-      for (var i = 0; i < data.length; i++) {
-        console.log(data[i].Company);
-        console.log(data[i].Address);
-        console.log(data[i].City);
-        console.log(data[i].State);
-        console.log(data[i].Zip);
-        console.log(data[i].Nearest_Kroger);
-        L.marker([data[i].Lat, data[i].Long]).addTo(map);
-      }
-  };
-
-</script>
+    <!-- Our JavaScript -->
+    <script type="text/javascript" src="static/js/bourbon_logic.js"></script>
 
 </body>
+
 </html>
